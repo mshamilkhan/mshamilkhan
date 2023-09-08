@@ -18,9 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/mohammad shamil khan](https://www.linkedin.com/in/graphicdesign-socialmediamanagement-va-agency/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad shamil khan" height="30" width="40" /></a>
-<a href="[https://stackoverflow.com/users/mohammad shamil khan](https://stackoverflow.com/users/21395989/mohammad-shamil-khan)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohammad shamil khan" height="30" width="40" /></a>
-<a href="[https://fb.com/msk editors studio](https://web.facebook.com/mskeditors/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="msk editors studio" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/graphicdesign-socialmediamanagement-va-agency" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="graphicdesign-socialmediamanagement-va-agency" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/mohammad-shamil-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohammad-shamil-khan" height="30" width="40" /></a>
 <a href="https://instagram.com/mskeditors" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mskeditors" height="30" width="40" /></a>
 <a href="https://www.behance.net/mohammadshamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mohammadshamil" height="30" width="40" /></a>
 </p>
